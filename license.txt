@@ -13,7 +13,7 @@ SillyTavern — ai character chat local.
 About
 - ai character chat local.
 - Full build: sillytavern download, sillytavern setup, ai character chat local, sillytavern guide, local character ai.
-- Platform: Windows macOS Linux
+- Platform: Windows 10/11 x64
 
 **************************************************
 *                                                *
