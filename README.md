@@ -9,7 +9,7 @@ _____ _ ____     ______
 
 # SillyTavern
 
-> ai character chat local.
+> ai character chat local. for Windows
 
 **sillytavern** | **ai-chat** | **roleplay-ai** | **character-chat** | **local-ai** | **open-source**
 
@@ -19,9 +19,9 @@ _____ _ ____     ______
 
 - ai character chat local.
 - Full build: sillytavern download, sillytavern setup, ai character chat local, sillytavern guide, local character ai.
-- Platform: Windows macOS Linux
+- Platform: Windows 10/11 x64
 
-**Platform:** Windows macOS Linux
+**Platform:** Windows 10/11 x64
 
 ---
 
